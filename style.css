@@ -2,6 +2,8 @@ body{
 background-color: lightblue;
 color: lightslategray ;
 text-align: center;
+   margin: 0 auto;
+    max-width: 1000px;
 }
 
 nav{
